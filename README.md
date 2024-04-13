@@ -5,7 +5,7 @@ I'm Ali, a <b> 3rd Year Electrical Engineering Student </b> with a specializatio
 
 ### Contact Information:
 [![Linkedin](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hussain-0439a21b6/)
-[![Gmail](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/ali-hussain-0439a21b6/)
+[![Gmail](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alihuss1017@gmail.com)
 
 
 ### Top Skills:
