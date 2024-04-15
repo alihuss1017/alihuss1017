@@ -17,7 +17,7 @@ I'm Ali, a <b> 3rd Year Electrical Engineering Student </b> with a specializatio
 ### What I'm Doing:
 ---
 
-- 🔭 I’m currently working on **Generative Models for Nature Images.**
+- 🔭 I’m currently working on a **Drowsiness Detection Computer Vision Model.**
 - 🌱 I’m currently learning <b>Probabilistic Reasoning and Graphical Models</b>.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alihuss1017&layout=compact&theme=dark&hide_border=true)
