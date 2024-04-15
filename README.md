@@ -11,6 +11,7 @@ I'm Ali, a <b> 3rd Year Electrical Engineering Student </b> with a specializatio
 ### Top Skills:
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TF](https://img.shields.io/badge/Tensorflow-yellow.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-teal.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-black.svg?style=for-the-badge&logo=matlab&logoColor=white)
 
 
