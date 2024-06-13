@@ -22,8 +22,8 @@ I'm Ali, a <b> 3rd Year Electrical Engineering Student </b> with a specializatio
 ### What I'm Doing:
 ---
 
-- 🔭 I’m currently working on **LeetCode**.
-- 🌱 I’m currently learning <b>Probabilistic Reasoning and Graphical Models</b>.
+- 🔭 I’m currently working on **natural language processing models**.
+- 🌱 I’m currently learning <b>RNNs, LSTMs, GRUs, and transformers</b>.
 
 
 ### LeetCode Stats:
