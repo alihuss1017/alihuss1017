@@ -1,6 +1,6 @@
 # Hi! 👋
 <br>
-I'm Ali, a <b> 3rd Year Electrical Engineering Student </b> with a specialization in <b> Machine Learning and Controls </b> at <b> UC San Diego</b>. I enjoy building deep learning models and integrating them into desktop applciations.
+I'm Ali, a <b> 4th Year Electrical Engineering Student </b> with a specialization in <b> Machine Learning and Controls </b> at <b> UC San Diego</b>. I will be starting my M.S. in <b>Machine Learning and Data Science</b> at <b>UC San Diego</b> in <b>March 2025</b>.I enjoy building deep learning models and integrating them into desktop applciations.
 <be><hr>
 
 ### Interests: 
