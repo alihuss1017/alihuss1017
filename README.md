@@ -4,7 +4,6 @@ I'm Ali, a <b> 4th Year Electrical Engineering Student </b> with a specializatio
 <be><hr>
 
 ### Interests: 
-![CIRCUITS](https://img.shields.io/badge/CIRCUITS-red?style=for-the-badge&logo=open&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/DeepLearning-blue?style=for-the-badge&logo=open&logoColor=white)
 ![Robotics](https://img.shields.io/badge/Robotics-yellow?style=for-the-badge&logo=robot&logoColor=white)
 ### Contact Information:
@@ -19,11 +18,15 @@ I'm Ali, a <b> 4th Year Electrical Engineering Student </b> with a specializatio
 ![Arduino](https://img.shields.io/badge/Arduino-teal.svg?style=for-the-badge&logo=arduino&logoColor=white)
 
 
-### What I'm Doing:
+### Courses Taken:
 ---
 
-- 🔭 I’m currently working on **natural language processing models**.
-- 🌱 I’m currently learning <b>RNNs, LSTMs, GRUs, and transformers</b>.
+- ECE 174: Linear and Nonlinear Optimization.
+- ECE 175A: Pattern Recognition and Machine Learning
+- ECE 175B: Probabilistic Reasoning and Graphical Models
+- ECE 176: Introduction to Deep Learning and Applications
+- ECE 225A: Probability and Statistics for Data Science
+- ECE 271A: Statistical Learning I
 
 
 ### LeetCode Stats:
