@@ -20,8 +20,14 @@ I'm Ali, a <b> 4th Year Electrical Engineering Student </b> with a specializatio
 
 ### Courses Taken:
 ---
-
-- ECE 174: Linear and Nonlinear Optimization.
+- COGS 118A: Supervised Machine Learning Algorithms
+- COGS 118B: Introduction to Machine Learning
+- COGS 181: Neural Networks and Deep Learning
+- ECE 111: Advanced Digital Design Project
+- ECE 143: Programming for Data Analysis
+- ECE 171AB: Linear Control System Theory
+- ECE 172A: Introduction to Intelligent Systems
+- ECE 174: Linear and Nonlinear Optimization
 - ECE 175A: Pattern Recognition and Machine Learning
 - ECE 175B: Probabilistic Reasoning and Graphical Models
 - ECE 176: Introduction to Deep Learning and Applications
