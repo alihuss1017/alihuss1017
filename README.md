@@ -23,6 +23,8 @@ I'm Ali, a <b> 4th Year Electrical Engineering Student </b> with a specializatio
 - COGS 118A: Supervised Machine Learning Algorithms
 - COGS 118B: Introduction to Machine Learning
 - COGS 181: Neural Networks and Deep Learning
+- CSE 250A: Probabilistic Reasoning and Learning
+- DSC 208R: Data Management for Analytics
 - ECE 111: Advanced Digital Design Project
 - ECE 143: Programming for Data Analysis
 - ECE 171AB: Linear Control System Theory
@@ -32,7 +34,10 @@ I'm Ali, a <b> 4th Year Electrical Engineering Student </b> with a specializatio
 - ECE 175B: Probabilistic Reasoning and Graphical Models
 - ECE 176: Introduction to Deep Learning and Applications
 - ECE 225A: Probability and Statistics for Data Science
+- ECE 250A: Random Processes
 - ECE 271A: Statistical Learning I
+- ECE 273: Convex Optimization
+- ECE 285: Deep Generative Models
 
 
 ### LeetCode Stats:
