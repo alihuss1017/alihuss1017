@@ -1,4 +1,4 @@
-1st Year ECE Grad student specializing in <b>Machine Learning & Data Science</b
+1st Year ECE Grad student specializing in <b>Machine Learning & Data Science</b>
 
 ### Interests: 
 ![Deep Learning](https://img.shields.io/badge/DeepLearning-blue?style=for-the-badge&logo=open&logoColor=white)
