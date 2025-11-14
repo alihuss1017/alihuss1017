@@ -1,4 +1,8 @@
-1st Year ECE Grad student @ UCSD specializing in <b>Machine Learning & Data Science</b>
+2nd Year ECE Grad student @ UCSD specializing in <b>Machine Learning & Data Science</b>
+
+
+### What I'm Currently Doing:
+Learning and implementing vision transformers.
 
 ### Interests: 
 ![Deep Learning](https://img.shields.io/badge/DeepLearning-blue?style=for-the-badge&logo=open&logoColor=white)
