@@ -2,7 +2,7 @@
 
 
 ### What I'm Currently Doing:
-Learning and implementing vision transformers.
+Learning and implementing vision transformers. Revisiting diffusion models.
 
 ### Interests: 
 ![Deep Learning](https://img.shields.io/badge/DeepLearning-blue?style=for-the-badge&logo=open&logoColor=white)
