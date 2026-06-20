@@ -1,8 +1,8 @@
-2nd Year ECE Grad student @ UCSD specializing in <b>Machine Learning & Data Science</b>
+ECE: <b> Machine Learning and Data Science</b> M.S. @ UC San Diego. 
 
 
 ### What I'm Currently Doing:
-Reading Few-Shot learning papers.
+Learning about recommender systems.
 
 ### Interests: 
 ![Deep Learning](https://img.shields.io/badge/DeepLearning-blue?style=for-the-badge&logo=open&logoColor=white)
